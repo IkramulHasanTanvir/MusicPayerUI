@@ -1,6 +1,6 @@
 # MusicPlayerUI
 
-Watch tutorial here [YouTube]()
+Watch tutorial here [YouTube](https://youtu.be/yRrjDk045UE?si=ixfSUxkPIMZe_qiA)
 
 UI-UX Peview [Dribbble](https://dribbble.com/shots/24680869-MusicPlayerUI-Flutter)
 
