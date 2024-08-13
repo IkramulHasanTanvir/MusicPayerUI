@@ -1,16 +1,7 @@
-# musicpayerui
+# MusicPlayerUI
 
-A new Flutter project.
+Watch tutorial here [YouTube]()
 
-## Getting Started
+UI-UX Peview [Dribbble](https://dribbble.com/shots/24680869-MusicPlayerUI-Flutter)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![72692840-4960-4603-B21E-3BC8442AA19F](https://cdn.dribbble.com/userupload/16060659/file/original-f9719775ef6a45e886662424a2d7ba38.jpg?resize=1920x1080)
